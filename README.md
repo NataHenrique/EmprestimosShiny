@@ -25,7 +25,6 @@ O simulador também integra taxas de juros e inflação diretamente da **API do 
 - [Shiny for Python](https://shiny.posit.co/py/)
 - [Pandas](https://pandas.pydata.org/)
 - [Plotly](https://plotly.com/python/)
-- [ShinyWidgets](https://shiny.posit.co/py/packages/shinywidgets/)
 - [Requests](https://docs.python-requests.org/en/latest/)
 
 ---
